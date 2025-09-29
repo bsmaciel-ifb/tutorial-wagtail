@@ -11,3 +11,5 @@
 - [Editor’s guide] (https://docs.wagtail.org/en/stable/editor_manual/index.html)
 - [Contributing] (https://docs.wagtail.org/en/stable/contributing/index.html)
 - [Release notes] (https://docs.wagtail.org/en/stable/releases/index.html)
+
+[compatible versions of Python] (https://docs.wagtail.org/en/stable/releases/upgrading.html#compatible-django-python-versions)
