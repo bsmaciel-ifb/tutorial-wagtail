@@ -16,6 +16,12 @@ body {
     display: grid;
     gap: 3vw;
     grid-template-rows: min-content 1fr min-content;
+    color:black
+}
+
+#main{
+    padding: 0 20px 20px 20px;
+    background-color: lightgray;
 }
 
 a {
@@ -23,12 +29,16 @@ a {
 }
 
 footer {
+    padding: 0 20px;
     border-top: 2px dotted;
     text-align: center;
+    background-color: cadetblue;
 }
 
 header {
+    padding: 0 20px;
     border-bottom: 2px dotted;
+    background-color: cadetblue;
 }
 
 .template-homepage main {
@@ -36,10 +46,14 @@ header {
 }
 
 .skip-link {
-    position: absolute;
-    top: -30px;
+    position: relative;
+    top: 5px;
 }
 
 .skip-link:focus-visible {
     top: 5px;
 }
+
+ul.author-list{
+    padding-left: 0;
+}   
