@@ -1,0 +1,1 @@
+Arquivo para testar o usuário durante o push para o repositório remoto.
